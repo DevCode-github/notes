@@ -1,0 +1,1 @@
+1. [[Application Events]] - Part of Spring Framework, provides a means of application-wide broadcasting of information, allowing beans to interact without being tightly coupled.
